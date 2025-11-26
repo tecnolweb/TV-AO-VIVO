@@ -1,5 +1,5 @@
 // ===============================
-// LISTA DE CANAIS (EDITE AS URLS)
+// LISTA DE CANAIS
 // ===============================
 const canais = [
     { nome: "Globo", imagem: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Globo_logo.png", url: "https://live-ber-sp-05-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA1LTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc2NDE0MDI2NSwiaWF0IjoxNzY0MTE4NjY1LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImQ4N2VjOGNkLWU2ZjQtNGFiMC1hY2ZiLTg2NzJhYzFlYzc2YSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tY3JyL3BsYXlsaXN0Lm0zdTgifQ.eaOTeNniFoFPY28dsTXOmLSDGn254BDYbwa47YmFhYoiJhpBbwPFwg-zLVQVQSYT7N-k4nnKxxpausl3dEtxvvvNy-kRBFj-DkoZXR49qOZ5GIyU1ZDuezGgD9_2sa2654F5jrryk9cq9EBu92wOZIxlTEpSL0cCyS6J0A20_2RgFCQyv2GU93Y8swPF5eLjTv6xLE-foZPgY0MPdD57wEAFmoZXkW5KMC3JpVXuhfADbkc5Ks3oF2SX6kdph8LgnPCxnL4JhsN0DzgcrsQH9w_iSLhMRyG6-yKEU32YFl0DYd3bcBMz3vPmcCi76Y_CcVnmnDypG5-A5rhvoN2c4w/live/f(i=2)/globo-crr/globo-crr-audio_1=96000-video=2262976.m3u8" },
