@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    background: #000;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+/* SPLASH */
+#splash {
+    position: fixed;
+    inset: 0;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    color: cyan;
+    animation: fadeOut 2s forwards;
+    animation-delay: 1.5s;
+}
+@keyframes fadeOut {
+    to { opacity: 0; visibility: hidden; }
+}
+
+header {
+    background: #0a0a0a;
+    padding: 20px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    border-bottom: 2px solid #00eaff;
+    margin-top: 80px;
+}
+
+#lista-canais {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+    padding: 20px;
+}
+
+/* CANAL */
+.canal-box {
+    background: #111;
+    padding: 10px;
+    border-radius: 12px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.2s;
+    border: 1px solid #0ff;
+}
+
+.canal-box img {
+    width: 100%;
+    height: 130px;
+    object-fit: contain;
+}
+
+.canal-nome {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* FOCO TV */
+.focused {
+    transform: scale(1.12);
+    box-shadow: 0 0 15px cyan;
+    border: 2px solid cyan;
+}
+
+/* MODAL PLAYER */
+.modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.9);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    width: 90%;
+    max-width: 900px;
+}
+
+#player {
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid cyan;
+}
+
+.close {
+    float: right;
+    font-size: 40px;
+    cursor: pointer;
+    color: white;
+}

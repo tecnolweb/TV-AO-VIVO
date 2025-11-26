@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>TV AO VIVO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- SPLASH -->
+<div id="splash">
+    <h1>AG SOFTWARE</h1>
+</div>
+
+<header>
+    <h1>📺 TV AO VIVO</h1>
+</header>
+
+<main id="lista-canais"></main>
+
+<!-- PLAYER -->
+<div id="playerModal" class="modal">
+    <div class="modal-content">
+        <span class="close" id="fecharPlayer">&times;</span>
+        <video id="player" controls autoplay></video>
+    </div>
+</div>
+
+<!-- HLS.js -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<!-- APP -->
+<script src="app.js"></script>
+</body>
+</html>
