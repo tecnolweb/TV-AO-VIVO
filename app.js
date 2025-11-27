@@ -8,6 +8,15 @@ const canais = [
     { nome: "Record", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrqTv2fif4I4zzsIzbvyOpkbTq4nxHFEisA&s", url: "https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w2097626994.m3u8" },
     { nome: "RedeTV", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlF2skYmRpVKIGI0Iy6uucUOxo-leHLCnEzQ&s", url: "https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/chunklist_w2097626994.m3u8" },
     { nome: "TV Maná Brasil", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "TviFicção", imagem: "https://televisao.tv/images/tvi-ficcao.jpg", url: "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
+    { nome: "", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdWTezfdetPCYlmnrEGutx6VD4v9rrq362A&s", url: "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"},
 
 ];
 
